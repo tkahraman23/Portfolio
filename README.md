@@ -1,33 +1,46 @@
 # Tarık Kahraman — Portfolio
 
-2023 yılında Altınbaş Üniversitesi Bilgisayar Mühendisliği bölümüne başladım.  
-B2 seviyesinde İngilizce biliyorum. C, C++, Python ve Java ile projeler geliştiriyorum.  
-Staj arıyorum; öğrenmeye açık, sorumluluk almaya istekliyim.
+I started studying Computer Engineering at Altınbaş University in 2023.
+I have B2 level English proficiency. I develop projects using C, C++, Python, and Java.
+I am currently seeking an internship opportunity and am eager to learn and take responsibility.
 
 ## Skills
-- Languages: C, C++, Python, Java
-- Web: HTML, JavaScript
-- Tools: Git, GitHub, VS Code, Linux
+Languages: C, C++, Python, Java
+
+Web: HTML, JavaScript
+
+Tools: Git, GitHub, VS Code, Linux
 
 ## Featured Projects
 
-### 1) Electrozirve FAQ Chatbot (Frontend Widget)
-Önceden tanımlı soru-cevaplarla kullanıcıların sorunlarına hızlı çözüm sunan, web sitesine script ile gömülebilen chatbot.
-- Ben ne yaptım: UI + HTML/JS embed, soru/cevap akışı, siteye entegrasyon
-- Tech: HTML, JavaScript
-- Link: https://electrozirve.com/
+### Electrozirve FAQ Chatbot (Frontend Widget)
 
-### 2) Transcript + Summary (Speech-to-Text + Summarization)
-Ses kaydını yazıya çeviren ve metni özetleyen Python tabanlı web uygulaması (HuggingFace Spaces).
-- Ben ne yaptım: STT akışı + özetleme, arayüz entegrasyonu, demo yayını
-- Tech: Python
-- Demo: https://huggingface.co/spaces/burask/transcript
+A chatbot embedded into a website via script, providing fast solutions to user questions using predefined question-answer flows.
 
-### 3) Weather App
-Python ile geliştirilmiş hava durumu web uygulaması (Render üzerinde canlı).
-- Ben ne yaptım: arayüz + uygulama akışı + deploy
-- Tech: Python
-- Demo: https://weather4-zgis.onrender.com/
+My role: Developed the UI, HTML/JS embed system, question-answer flow, and website integration
+
+Technologies: HTML, JavaScript
+
+Link: https://electrozirve.com/
+
+### Transcript + Summary (Speech-to-Text + Summarization)
+
+A Python-based web application that converts speech into text and generates summaries, published on HuggingFace Spaces.
+
+My role: Implemented the speech-to-text pipeline, summarization functionality, UI integration, and demo deployment
+
+Technologies: Python
+
+Demo: https://huggingface.co/spaces/burask/transcript
+### Weather App
+
+A weather web application developed with Python and deployed live on Render.
+
+My role: Developed the user interface, application flow, and deployment
+
+Technologies: Python
+
+Demo: https://weather4-zgis.onrender.com/
 
 ## Contact
 - Email: tarikkahraman04@gmail.com
