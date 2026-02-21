@@ -13,6 +13,8 @@ Tools: Git, GitHub, VS Code, Linux
 
 ## Featured Projects
 
+
+
 ### Electrozirve FAQ Chatbot (Frontend Widget)
 
 A chatbot embedded into a website via script, providing fast solutions to user questions using predefined question-answer flows.
@@ -23,6 +25,8 @@ Technologies: HTML, JavaScript
 
 Link: https://electrozirve.com/
 
+
+
 ### Transcript + Summary (Speech-to-Text + Summarization)
 
 A Python-based web application that converts speech into text and generates summaries, published on HuggingFace Spaces.
@@ -32,6 +36,9 @@ My role: Implemented the speech-to-text pipeline, summarization functionality, U
 Technologies: Python
 
 Demo: https://huggingface.co/spaces/burask/transcript
+
+
+
 ### Weather App
 
 A weather web application developed with Python and deployed live on Render.
@@ -41,6 +48,25 @@ My role: Developed the user interface, application flow, and deployment
 Technologies: Python
 
 Demo: https://weather4-zgis.onrender.com/
+
+
+
+(C++ HTTP API + Web Interface)
+
+A temperature conversion application developed in C++ that works both as a console program and as a lightweight HTTP server. The project includes a REST-like API and a modern web interface for real-time temperature conversions.
+
+The backend server is implemented using C++ and cpp-httplib, handling API requests and returning JSON responses. The frontend is built with HTML, CSS, and JavaScript, communicating with the C++ server via fetch API.
+
+My role:
+Designed and implemented the C++ backend server, temperature conversion logic, JSON response system, and REST endpoint structure. Developed the frontend interface and integrated it with the backend API.
+
+Technologies:
+C++, cpp-httplib, HTML, CSS, JavaScript
+
+Architecture:
+Frontend (HTML/JS) → HTTP Request → C++ Backend → JSON Response → UI Update
+
+
 
 ## Contact
 - Email: tarikkahraman04@gmail.com
