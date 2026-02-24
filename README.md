@@ -27,6 +27,9 @@ Link: https://electrozirve.com/
 
 
 
+
+
+
 ### Transcript + Summary (Speech-to-Text + Summarization)
 
 A Python-based web application that converts speech into text and generates summaries, published on HuggingFace Spaces.
@@ -39,6 +42,9 @@ Demo: https://huggingface.co/spaces/burask/transcript
 
 
 
+
+
+
 ### Weather App
 
 A weather web application developed with Python and deployed live on Render.
@@ -48,6 +54,8 @@ My role: Developed the user interface, application flow, and deployment
 Technologies: Python
 
 Demo: https://weather4-zgis.onrender.com/
+
+
 
 
 
