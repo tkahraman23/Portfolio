@@ -51,7 +51,7 @@ Demo: https://weather4-zgis.onrender.com/
 
 
 
-(C++ HTTP API + Web Interface)
+### HeatSync-Server (C++ HTTP API + Web Interface)
 
 A temperature conversion application developed in C++ that works both as a console program and as a lightweight HTTP server. The project includes a REST-like API and a modern web interface for real-time temperature conversions.
 
