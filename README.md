@@ -1,7 +1,7 @@
 # Tarık Kahraman — Portfolio
 
 I started studying Computer Engineering at Altınbaş University in 2023.
-I have B2 level English proficiency. I develop projects using C, C++, Python, and Java.
+I have B2 level English proficiency. I develop projects using C, C++, C#, Python, and Java.
 I am currently seeking an internship opportunity and am eager to learn and take responsibility.
 
 ## Skills
