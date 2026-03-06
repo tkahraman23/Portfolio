@@ -76,6 +76,31 @@ Frontend (HTML/JS) → HTTP Request → C++ Backend → JSON Response → UI Upd
 
 
 
+
+
+Jump Game (Unity 2D Mobile Game)
+A Doodle Jump-style endless jumping game developed in Unity for mobile platforms. The player bounces on platforms, avoids traps, and collects power-ups while climbing as high as possible.
+
+My role: Designed and implemented the complete game architecture including player controller, platform spawning system, power-up mechanics (rocket boost), trap system, score management, and UI. Developed mobile touch controls and screen wrapping mechanics.
+
+Technologies: Unity, C#
+
+Features:
+
+Procedural platform generation with configurable spawn rates
+Multiple platform types: normal, moving platforms
+Power-ups: Rocket (temporary flight with platform pass-through)
+Traps: One-way collision detection (only triggers when falling)
+One-way platform physics (jump through from below)
+Score system with persistent high score (PlayerPrefs)
+Game Over and restart functionality
+Mobile touch controls + keyboard support
+
+
+GitHub: https://github.com/tkahraman23/jump-game
+
+
+
 ## Contact
 - Email: tarikkahraman04@gmail.com
 - GitHub: @tkahraman23 — https://github.com/tkahraman23
